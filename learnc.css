@@ -188,12 +188,12 @@ img{
     padding: 0px;
 }
 .ft1{
-    text-align: center;
+   text-align: center;
     
     font-size:16px ;
     border: 1px solid rgb(207, 207, 207);
     border-radius: 0px;
-    width: 100%;
+    width: inherit;
     height: 380px;
     padding: 20px;
     font-family: udemy sans,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
@@ -206,7 +206,7 @@ img{
     
     
 }
-.f1{
+.ft{
     display: flex;
     justify-content:center;
     flex-wrap: wrap;
