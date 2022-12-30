@@ -206,7 +206,8 @@ img{
     
     
 }
-.ft{
+footer.ft{
+  width: 100%;
     display: flex;
     justify-content:center;
     flex-wrap: wrap;
